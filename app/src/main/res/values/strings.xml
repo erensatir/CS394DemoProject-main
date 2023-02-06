@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FinalNews_CS394</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="about_app">About This App</string>
+    <string name="default_article_title">article</string>
+    <string name="default_source_title">source</string>
+    <string name="default_details_title">details</string>
+</resources>
